@@ -1,0 +1,8 @@
+*.csv
+*.DS_Store
+*.dmg
+*.pkl
+*.lock
+*.dirlock
+*.pyc
+*.p
