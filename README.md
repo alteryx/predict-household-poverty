@@ -10,8 +10,8 @@ We will show how [Featuretools](https://www.featuretools.com) can be used to pre
 *The Tutorial notebook from this repository exists [on Kaggle](https://www.kaggle.com/willkoehrsen/featuretools-for-good). If you would prefer to work in that environment, you can fork the existing kernel to use as a starting point.*
 
 ## Highlights
-* Quickly make end-to-end workflow using log-line cybersecurity data
-* Find interesting automatically generated features
+* Automatically generate 2000 features
+* Learn how to write your own primitive to be applied to the data
 
 ## Running the tutorial
 If you would like to work on Kaggle, the Tutorial notebook [has been uploaded](https://www.kaggle.com/sjrothsc/using-featuretools-for-missed-appointments) as a kernel. You can fork that notebook to use as a starting point. If you prefer to work locally:
@@ -34,7 +34,7 @@ If you would like to work on Kaggle, the Tutorial notebook [has been uploaded](h
 
     You can download the data from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) or create a kernel and use Featuretools there. After downloading, save the CSV to a directory called `data` in the root of this repository.
 
-5. Run the [Tutorial](Tutorial.ipynb)
+5. Run the [Tutorial](Tutorial.ipynb) notebook
 
 ## Feature Labs
 <a href="https://www.featurelabs.com/">
