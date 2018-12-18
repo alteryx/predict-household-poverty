@@ -9,22 +9,26 @@ We will show how [Featuretools](https://www.featuretools.com) can be used to pre
 
 *The Tutorial notebook from this repository exists [on Kaggle](https://www.kaggle.com/willkoehrsen/featuretools-for-good). If you would prefer to work in that environment, you can fork the existing kernel to use as a starting point.*
 
+## Highlights
+* Quickly make end-to-end workflow using log-line cybersecurity data
+* Find interesting automatically generated features
+
 ## Running the tutorial
 If you would like to work on Kaggle, the Tutorial notebook [has been uploaded](https://www.kaggle.com/sjrothsc/using-featuretools-for-missed-appointments) as a kernel. You can fork that notebook to use as a starting point. If you prefer to work locally:
 1. Clone the repo
 
-  ```
-  git clone https://github.com/Featuretools/predict-costa-rican-poverty.git
-  ```
+    ```
+    git clone https://github.com/Featuretools/predict-household-poverty.git
+    ```
 
 2. Install the requirements
 
-  ```
-  pip install -r requirements.txt
-  ```
+    ```
+    pip install -r requirements.txt
+    ```
 
-3. Install LightGBM, for your OS :
-https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html
+3. Install LightGBM, for your OS:<br/>
+   https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html
 
 4. Download the data
 
