@@ -1,4 +1,4 @@
-# Precit the poverty of households in Costa Rica using automated feature engineering
+# Predict the poverty of households in Costa Rica using automated feature engineering
 <p style="margin:30px\">
     <img width=50% src="https://www.featuretools.com/wp-content/uploads/2017/12/FeatureLabs-Logo-Tangerine-800.png" alt="Featuretools" />
 </p>
