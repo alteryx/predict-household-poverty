@@ -27,14 +27,11 @@ If you would like to work on Kaggle, the Tutorial notebook [has been uploaded](h
     pip install -r requirements.txt
     ```
 
-3. Install LightGBM, for your OS:<br/>
-   https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html
-
-4. Download the data
+3. Download the data
 
     You can download the data from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) or create a kernel and use Featuretools there. After downloading, save the CSV to a directory called `data` in the root of this repository.
 
-5. Run the [Tutorial](Tutorial.ipynb) notebook
+4. Run the [Tutorial](Tutorial.ipynb) notebook
 
 ## Feature Labs
 <a href="https://www.featurelabs.com/">
