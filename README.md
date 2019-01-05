@@ -14,7 +14,7 @@ We will show how [Featuretools](https://www.featuretools.com) can be used to pre
 * Learn how to write your own primitive to be applied to the data
 
 ## Running the tutorial
-If you would like to work on Kaggle, the Tutorial notebook [has been uploaded](https://www.kaggle.com/sjrothsc/using-featuretools-for-missed-appointments) as a kernel. You can fork that notebook to use as a starting point. If you prefer to work locally:
+If you would like to work on Kaggle, the Tutorial notebook [has been uploaded](https://www.kaggle.com/willkoehrsen/featuretools-for-good) as a kernel. You can fork that notebook to use as a starting point. If you prefer to work locally:
 1. Clone the repo
 
     ```
@@ -29,7 +29,7 @@ If you would like to work on Kaggle, the Tutorial notebook [has been uploaded](h
 
 3. Download the data
 
-    You can download the data from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) or create a kernel and use Featuretools there. After downloading, save the CSV to a directory called `data` in the root of this repository.
+    You can download the data from [Kaggle](https://www.kaggle.com/c/costa-rican-household-poverty-prediction/data) or create a kernel and use Featuretools there. After downloading, save the CSV to a directory called `data` in the root of this repository.
 
 4. Run the [Tutorial](Tutorial.ipynb) notebook
 
