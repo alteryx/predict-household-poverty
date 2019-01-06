@@ -33,6 +33,10 @@ If you would like to work on Kaggle, the Tutorial notebook [has been uploaded](h
 
 4. Run the [Tutorial](Tutorial.ipynb) notebook
 
+    ```
+    jupyter notebook
+    ```
+
 ## Feature Labs
 <a href="https://www.featurelabs.com/">
     <img src="http://www.featurelabs.com/wp-content/uploads/2017/12/logo.png" alt="Featuretools" />
